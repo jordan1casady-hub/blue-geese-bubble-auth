@@ -1,0 +1,14 @@
+
+{
+  "client_id": "https://jordan1casady-hub.github.io/blue-geese-bubble-auth/blue-geese-client.json",
+  "client_name": "Navigator Bubble Editor Client",
+  "redirect_uris": [
+    "http://127.0.0.1:8765/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
